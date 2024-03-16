@@ -37,7 +37,7 @@ let arr = [
     const arrremov = arr.filter((employee)=>{
       return employee.profession !=="admin"
   })
-  console.log(arrremov)
+  console.log(arrremov);
   }
   
   function concatenateArray() {
